@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EspressoSample</string>
+    <string name="edit_text_hint">Hey</string>
+    <string name="button_text">Change Text</string>
+</resources>
